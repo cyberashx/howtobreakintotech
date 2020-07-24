@@ -1,4 +1,4 @@
-# howtobreakintotech
+# How To Break Into Tech Industry Without a Tech Degree
 This post highlights my experience with breaking into the information security industry without having a tech degree.
 
 Breaking into the tech industry, especially into information security, can feel overwhelming at times. Even with all the resources available online, it just seems as if everyone has so much more knowledge and experience than you. Now pursuing this, coming from a non-tech background, can seem nearly impossible.
